@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E425DBE11B2EC39200F0501D /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = E425DBE01B2EC39200F0501D /* icon.png */; };
 		E45B1D2E1B26E2AB00E70A02 /* 0.JPG in Resources */ = {isa = PBXBuildFile; fileRef = E45B1D251B26E2AB00E70A02 /* 0.JPG */; };
 		E45B1D2F1B26E2AB00E70A02 /* 1.JPG in Resources */ = {isa = PBXBuildFile; fileRef = E45B1D261B26E2AB00E70A02 /* 1.JPG */; };
 		E45B1D301B26E2AB00E70A02 /* 2.JPG in Resources */ = {isa = PBXBuildFile; fileRef = E45B1D271B26E2AB00E70A02 /* 2.JPG */; };
@@ -23,7 +24,7 @@
 		E45C20741B1BFBAB009A23EF /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = E45C20721B1BFBAB009A23EF /* LaunchScreen.xib */; };
 		E45C20801B1BFBAB009A23EF /* PhoneNumberTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E45C207F1B1BFBAB009A23EF /* PhoneNumberTests.m */; };
 		E45C208A1B1C42B9009A23EF /* numberPlist.plist in Resources */ = {isa = PBXBuildFile; fileRef = E45C20891B1C42B9009A23EF /* numberPlist.plist */; };
-		E45C710C1B254C0C0080DA5F /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = E45C710B1B254C0C0080DA5F /* icon.png */; };
+		E45C710C1B254C0C0080DA5F /* icon1.png in Resources */ = {isa = PBXBuildFile; fileRef = E45C710B1B254C0C0080DA5F /* icon1.png */; };
 		E46451161B1D4515001D8B81 /* EveViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E46451141B1D4515001D8B81 /* EveViewController.m */; };
 		E46451171B1D4515001D8B81 /* EveViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = E46451151B1D4515001D8B81 /* EveViewController.xib */; };
 		E46451191B1D47C3001D8B81 /* headImageColor.plist in Resources */ = {isa = PBXBuildFile; fileRef = E46451181B1D47C3001D8B81 /* headImageColor.plist */; };
@@ -40,6 +41,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		E425DBE01B2EC39200F0501D /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
 		E45B1D251B26E2AB00E70A02 /* 0.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 0.JPG; sourceTree = "<group>"; };
 		E45B1D261B26E2AB00E70A02 /* 1.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.JPG; sourceTree = "<group>"; };
 		E45B1D271B26E2AB00E70A02 /* 2.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.JPG; sourceTree = "<group>"; };
@@ -62,7 +64,7 @@
 		E45C207E1B1BFBAB009A23EF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E45C207F1B1BFBAB009A23EF /* PhoneNumberTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PhoneNumberTests.m; sourceTree = "<group>"; };
 		E45C20891B1C42B9009A23EF /* numberPlist.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = numberPlist.plist; sourceTree = "<group>"; };
-		E45C710B1B254C0C0080DA5F /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		E45C710B1B254C0C0080DA5F /* icon1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon1.png; sourceTree = "<group>"; };
 		E46451131B1D4515001D8B81 /* EveViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EveViewController.h; sourceTree = "<group>"; };
 		E46451141B1D4515001D8B81 /* EveViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EveViewController.m; sourceTree = "<group>"; tabWidth = 4; };
 		E46451151B1D4515001D8B81 /* EveViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = EveViewController.xib; sourceTree = "<group>"; };
@@ -133,7 +135,8 @@
 				E45B1D241B26E2AB00E70A02 /* Image */,
 				E45B1D2B1B26E2AB00E70A02 /* vidio */,
 				E46451181B1D47C3001D8B81 /* headImageColor.plist */,
-				E45C710B1B254C0C0080DA5F /* icon.png */,
+				E45C710B1B254C0C0080DA5F /* icon1.png */,
+				E425DBE01B2EC39200F0501D /* icon.png */,
 				E45C20891B1C42B9009A23EF /* numberPlist.plist */,
 				E46451131B1D4515001D8B81 /* EveViewController.h */,
 				E46451141B1D4515001D8B81 /* EveViewController.m */,
@@ -260,6 +263,7 @@
 				E45B1D311B26E2AB00E70A02 /* 3.JPG in Resources */,
 				E45B1D341B26E2AB00E70A02 /* 1.mp3 in Resources */,
 				E45B1D301B26E2AB00E70A02 /* 2.JPG in Resources */,
+				E425DBE11B2EC39200F0501D /* icon.png in Resources */,
 				E45C208A1B1C42B9009A23EF /* numberPlist.plist in Resources */,
 				E46451191B1D47C3001D8B81 /* headImageColor.plist in Resources */,
 				E45C206F1B1BFBAB009A23EF /* Main.storyboard in Resources */,
@@ -267,7 +271,7 @@
 				E46451171B1D4515001D8B81 /* EveViewController.xib in Resources */,
 				E45B1D2E1B26E2AB00E70A02 /* 0.JPG in Resources */,
 				E45C20741B1BFBAB009A23EF /* LaunchScreen.xib in Resources */,
-				E45C710C1B254C0C0080DA5F /* icon.png in Resources */,
+				E45C710C1B254C0C0080DA5F /* icon1.png in Resources */,
 				E45C20711B1BFBAB009A23EF /* Images.xcassets in Resources */,
 				E45B1D331B26E2AB00E70A02 /* 5.JPG in Resources */,
 				E45B1D351B26E2AB00E70A02 /* myEve.MOV in Resources */,
